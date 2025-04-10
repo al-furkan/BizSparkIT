@@ -22,12 +22,11 @@ const Footer = () => {
             {/* Logo */}
             <div className="col-md-3 mb-4">
               <img
-                src="./image/logo2.png"
+                src="./image/footer logo.png"
                 alt="Logo"
                 style={{ marginBottom: '30px' }}
                 className="img-fluid footer-logo"
               />
-               <h5 class="mb-3">BizSpark IT</h5>
             </div>
 
             {/* Quick Links */}
@@ -55,10 +54,10 @@ const Footer = () => {
             <div className="col-md-3 mb-4">
               <h6 className="text-right">Follow Us</h6>
               <ul className="list-unstyled d-flex justify-content-between">
-                <li><a href="https://www.facebook.com/trimindis"><img src="./image/facebook.png" alt="Facebook" /></a></li>
-                <li><a href="https://www.instagram.com/trimindis.co/"><img src="./image/instagram.png" alt="Instagram" /></a></li>
-                <li><a href="https://x.com/trimindis_"><img src="./image/twitter.png" alt="X" /></a></li>
-                <li><a href="https://www.linkedin.com/company/trimindis/"><img src="./image/linkedin.png" alt="LinkedIn" /></a></li>
+                <li><a href="https://www.facebook.com/trimindis"><img src="./image/icons/facebook.png" alt="Facebook" /></a></li>
+                <li><a href="https://www.instagram.com/trimindis.co/"><img src="./image/icons/instagram.png" alt="Instagram" /></a></li>
+                <li><a href="https://x.com/trimindis_"><img src="./image/icons/twitter.png" alt="X" /></a></li>
+                <li><a href="https://www.linkedin.com/company/trimindis/"><img src="./image/icons/linkedin.png" alt="LinkedIn" /></a></li>
               </ul>
 
               <ul className="list-unstyled d-flex justify-content-between mt-5">

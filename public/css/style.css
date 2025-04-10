@@ -76,7 +76,7 @@ h1 {
 
 /* Hero Section */
 .hero-section2 {
-  min-height: 60vh;
+  min-height: 40vh;
   margin-bottom: 50px;
 }
 
@@ -166,7 +166,7 @@ button:not(:disabled) {
   position: relative;
 }
 .footer-logo{
-  width: 36%;
+  width: 70%;
 }
 
 .footer-section h5, .footer-section h6 {
